@@ -1,2 +1,2 @@
-# catalog-moc
-カタログソース
+# test-catalog
+カタログサイトのスクラッチのソースです
